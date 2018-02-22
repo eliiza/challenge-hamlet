@@ -10,4 +10,6 @@ For this challenge, you can use R or Python in the Jupyter notebook.  Everything
 
 1. Show the number of lines said per character throughout the play.
 
-2. Make word cloud of the script of the least common words
+2. Make a word cloud of unusual words in the script
+
+3. Compute the sentiment score for each scene.
