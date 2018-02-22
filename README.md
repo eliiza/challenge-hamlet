@@ -1,3 +1,13 @@
 # Eliiza Hamlet Challenge
 
 Launch in Jupyter: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/eliiza/challenge-hamlet/master?filepath=index.ipynb)
+
+## Overview
+
+For this challenge, you can use R or Python in the Jupyter notebook.  Everything you need to perform this challenge should be available - but feel free to install additional packages should you need them.
+
+## Challenge
+
+1. Show the number of lines said per character throughout the play.
+
+2. Make word cloud of the script of the least common words
