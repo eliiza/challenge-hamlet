@@ -4,7 +4,7 @@ Launch in Jupyter: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybind
 
 ## Overview
 
-For this challenge, you can use R or Python in the Jupyter notebook.  Everything you need to perform this challenge should be available - but feel free to install additional packages should you need them.
+For this challenge, you can use R or Python in the Jupyter notebook.  Everything you need to perform this challenge should be available - but feel free to install additional packages should you need them.  The text of hamlet is in this repository.
 
 ## Challenge
 
