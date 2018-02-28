@@ -13,3 +13,8 @@ For this challenge, you can use R or Python in the Jupyter notebook.  Everything
 2. Make a word cloud of unusual words in the script
 
 3. Compute the sentiment score for each scene.
+
+
+## Submitting
+
+Email back your ipython notebook.
